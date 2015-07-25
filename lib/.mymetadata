@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lib"
+  id="myeclipse.1312805367812"
+  context-root="/lib"
+  j2ee-spec="5.0"
+  archive="lib.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
